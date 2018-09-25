@@ -18,7 +18,7 @@ venv
 package-lock.json
 
 # compiled output
-/dist
+#/dist
 /tmp
 /out-tsc
 
